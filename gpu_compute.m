@@ -1,0 +1,1 @@
+results = paralleldemo_gpu_backslash();
